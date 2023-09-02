@@ -6,8 +6,10 @@ Demonstrate the Central Limit Theorem by simulating the sampling distribution of
 
 Steps:
 
-Generate a non-normally distributed population of size N. For simplicity, you can use a uniform distribution or an exponential distribution.
-Randomly draw n samples from the population and compute their mean. Repeat this process k times to simulate k sample means.
+Generate a non-normally distributed population of size N. For simplicity,
+you can use a uniform distribution or an exponential distribution.
+Randomly draw n samples from the population and compute their mean.
+Repeat this process k times to simulate k sample means.
 Plot a histogram of the k sample means.
 Observe whether the distribution of the sample means approaches a normal distribution as k increases.
 Requirements:
